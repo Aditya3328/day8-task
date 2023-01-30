@@ -1,0 +1,10 @@
+#Day8
+
+Que1) Create a new repository on GitHub and clone it to your local machine.
+Ans :- I created a new repository called "day8-task" and cloned it to my machine using the "git clone" command.
+
+Que2) Make some changes to a file in the repository and commit them to the repository using Git.
+Ans :- I created a file called "demo.txt" and wrote some lines in it, committed the changes using "git commit" command.
+
+Que3) Push the changes back to the repository on GitHub.
+Ans :- After I committed, I pushed the changes using the "git push" command.
